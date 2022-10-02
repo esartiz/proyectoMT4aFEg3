@@ -1,5 +1,7 @@
 # Moduloresultados
 
+Es necesario instalar el [npm_modules] y luego instalar el componente de las alertas [npm install --save sweetalert]
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
 ## Development server
